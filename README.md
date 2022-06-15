@@ -56,7 +56,7 @@ This project includes **3 subdirectories** as shown below. Brief description is 
 ### Step II
 #### iPSC transcriptomic analysis
 
--   **Raw data of RNA-sequencing (RNA-seq)** <img src="/img/dat.png"> stored in NCBI's Gene Expression Omnibus (Edgar et al., 2002) and are accessible through [**GEO Series accession number GSE205422**](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205422).
+-   **Raw data of RNA-sequencing (RNA-seq)** — stored in NCBI's Gene Expression Omnibus (Edgar et al., 2002) and are accessible through [**GEO Series accession number GSE205422**](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205422).
 
 -   **RNA-seq analysis:**
 

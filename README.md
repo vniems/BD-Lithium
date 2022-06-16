@@ -40,7 +40,8 @@ The study workflow including detailed methods can be found in 1) the **‘Method
 ------------------------------------------------------------------------
 
 ## The Project Workflow and File Descriptions
-This project includes **3 subdirectories** as shown below. Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
+This project includes **3 subdirectories** as shown below. 
+Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
 
 ### Step I
 <details open="open">

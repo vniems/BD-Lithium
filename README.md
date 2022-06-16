@@ -19,7 +19,7 @@ Here, we make available the analytic tools employed as part of the main study, o
 -   [About our project](#About-Our-Project)   
 -   [Project aim](#Project-Aim)
 -   The project workflow and file descriptions](#The-Project-Workflow-and-File-Descriptions)
-    - <h2 id="Genome-wide association study of patients with BD">Genome-wide-association-study of patients with BD)</h2>
+    - [Genome-wide association study of patients with BD](#Genome-wide association study of patients with BD)
     - [Transcriptomic analysis of iPSC-derived neurons](#Transcriptomic analysis of iPSC-derived neurons)
     - [Network and functional enrichment analysis](#Network-and-functional-enrichment-analysis)
 

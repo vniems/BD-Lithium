@@ -58,7 +58,7 @@ This project includes **3 subdirectories** as shown below. Brief description is 
 </details>
     
 ### Step II
-details open="open">
+<details open="open">
     <summary><b>iPSC transcriptomic analysis</b></summary>
   <ol>
 
@@ -74,7 +74,7 @@ details open="open">
 </details>
 
 ### Step III
-details open="open">
+<details open="open">
     <summary><b>Network and functional enrichment analyses</b></summary>
   <ol>
 

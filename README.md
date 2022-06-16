@@ -44,7 +44,6 @@ This project includes **3 subdirectories** as shown below. Brief description is 
 
 ### Step I
 <details open="open">
-#### Genome-wide association study
   <summary>#### Genome-wide association study>
   <ol>
 -   **Genome-wide association study (GWAS) analysis & imputation:** we did not provide the code. Here’s the summary:
@@ -54,7 +53,7 @@ This project includes **3 subdirectories** as shown below. Brief description is 
 - **Gene-based analysis:** we used a Versatile Gene-based Association Test (VEGAS): a web-based tool, https://vegas2.qimrberghofer.edu.au/.
 
 - **GWAS prioritizing analysis:** The GWAS results were reprioritized by using network information and the algorithms implemented in **genome-wide boosing analysis (GWAB)** and NetWAS methods.
-</ol>
+  </ol>
 </details>
     
 ### Step II

@@ -117,7 +117,6 @@ Contributions for this project are:
 -   **Code development team:**
    
     - Kathleen M. Fisch, Ph.D.
-    
     - Sara Brin Rosenthal, Ph.D.
     
 -   **Executive manager and sponsor:**

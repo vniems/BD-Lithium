@@ -40,7 +40,7 @@ The study workflow including detailed methods can be found in 1) the **‘Method
 ------------------------------------------------------------------------
 
 ## The Project Workflow and File Descriptions
-This project includes **3 subdirectories** as shown below. 
+This project includes **3 subdirectories** based on the analytic steps as shown below. 
 Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
 
 ### Step I
@@ -48,13 +48,13 @@ Brief description is provided for each file, including additional/required data,
     <summary><b>Genome-wide association study</b></summary>
   <ol>
       
-- **Genome-wide association study (GWAS) analysis & imputation:** we did not provide the code here. A summary is shown below:
+- **Genome-wide association study (GWAS) analysis & imputation:** we did not provide the code here. A summary is described as follows.
     -   DNA from 1106 subjects was genotyped on the Illumina PsychChip (https://sites.google.com/a/broadinstitute.org/psych-chip-resources/home).
     -   Genotype data was screened for low call rate, low genotyping rate, and Hardy-Weinberg equilibrium. Imputation was performed using IMPUTE2. Association was tested by linear regression as implemented in PLINK.
 
 - **Gene-based analysis:** we used a Versatile Gene-based Association Test (VEGAS): a web-based tool, https://vegas2.qimrberghofer.edu.au/.
 
-- **GWAS prioritizing analysis:** The GWAS results were reprioritized by using network information and the algorithms implemented in **genome-wide boosing analysis (GWAB)** and NetWAS methods.
+- **GWAS prioritizing analysis:** the GWAS results were reprioritized by using network information and the algorithms implemented in **genome-wide boosing analysis (GWAB)** and NetWAS methods.
   </ol>
 </details>
     
@@ -67,7 +67,7 @@ Brief description is provided for each file, including additional/required data,
 
 -   **RNA-seq analysis:**
 
-    -   Differential expression analysis: the functionsare used for RNA-seq differential expression analysis and downstream analysis.
+    -   Differential expression analysis: the functions are used for RNA-seq differential expression analysis and downstream analysis.
     -   Input files:
         -   Data #1: Phenotype data, kelsoe_metadata_111.csv
         -   Data #2: Gene expression data, all_genes_results_111s.txt

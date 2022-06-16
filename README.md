@@ -48,7 +48,7 @@ Brief description is provided for each file, including additional/required data,
     <summary><b>Genome-wide association study</b></summary>
   <ol>
       
-- **Genome-wide association study (GWAS) analysis & imputation:** we did not provide the code. Here’s the summary:
+- **Genome-wide association study (GWAS) analysis & imputation:** we did not provide the code here. A summary is shown below:
     -   DNA from 1106 subjects was genotyped on the Illumina PsychChip (https://sites.google.com/a/broadinstitute.org/psych-chip-resources/home).
     -   Genotype data was screened for low call rate, low genotyping rate, and Hardy-Weinberg equilibrium. Imputation was performed using IMPUTE2. Association was tested by linear regression as implemented in PLINK.
 

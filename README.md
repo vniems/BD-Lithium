@@ -58,7 +58,9 @@ This project includes **3 subdirectories** as shown below. Brief description is 
 </details>
     
 ### Step II
-#### iPSC transcriptomic analysis
+details open="open">
+    <summary><b>iPSC transcriptomic analysis</b></summary>
+  <ol>
 
 -   **Raw data of RNA-sequencing (RNA-seq)** — stored in NCBI's Gene Expression Omnibus (Edgar et al., 2002) and are accessible through [**GEO Series accession number GSE205422**](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205422).
 
@@ -68,9 +70,13 @@ This project includes **3 subdirectories** as shown below. Brief description is 
     -   Input files:
         -   Data #1: Phenotype data, kelsoe_metadata_111.csv
         -   Data #2: Gene expression data, all_genes_results_111s.txt
-        
+  </ol>
+</details>
+
 ### Step III
-#### Network and functional enrichment analyses
+details open="open">
+    <summary><b>Network and functional enrichment analyses</b></summary>
+  <ol>
 
 -   **Network propagation analysis**
 
@@ -83,6 +89,8 @@ This project includes **3 subdirectories** as shown below. Brief description is 
 -   **Input files:**
     -   Data #3: DE_Genes_Li and CTRL_LRvsNR_for_Katie.xlsx
     -   Data #4: prioritized_genes_boosting_methods_5percent_190708.xlsx
+</ol>
+</details>
 
 ------------------------------------------------------------------------
 

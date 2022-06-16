@@ -19,8 +19,8 @@ Here, we make available the analytic tools employed as part of the main study, o
 -   [About our project](#About-Our-Project)   
 -   [Project aim](#Project-Aim)
 -   [The project workflow and file descriptions](#The-Project-Workflow-and-File-Descriptions)
-    - [Genome-wide association study (GWAS)](#Genome-wide-association-study)
-    - [iPSC transcriptomic analysis](#iPSC-transcriptomic-analysis)
+    - [Genome-wide association study (GWAS) of patients with BD](#Genome-wide-association-study of patients with BD)
+    - [Transcriptomic analysis of iPSC-derived neurons](#Transcriptomic analysis of iPSC-derived neurons)
     - [Network and functional enrichment analysis](#Network-and-functional-enrichment-analysis)
 
 -  [Feature guidance](#Feature-guidance)

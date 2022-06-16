@@ -44,7 +44,7 @@ This project includes **3 subdirectories** as shown below. Brief description is 
 
 ### Step I
 <details open="open">
-  <summary>#### Genome-wide association study</summary>
+  <summary>Genome-wide association study</summary>
   <ol>
 -   **Genome-wide association study (GWAS) analysis & imputation:** we did not provide the code. Here’s the summary:
     -   DNA from 1106 subjects was genotyped on the Illumina PsychChip (https://sites.google.com/a/broadinstitute.org/psych-chip-resources/home).

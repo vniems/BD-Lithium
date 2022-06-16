@@ -33,7 +33,7 @@ Here, we make available the analytic tools employed as part of the main study, o
 
 ## Project Aim 
 
-**The purpose** of the project is to distribute the tool (code development) that had been used in the multi-omics analysis of integrated data between BD GWAS and RNA-seq of patients-derived iPSC neurons.
+**The purpose** of the project is to distribute the tool (code development) that had been used in the multi-omics analysis of integrated data between BD GWAS and RNA-seq of patients-derived induced pluripotent stem cell (iPSC) neurons.
 
 The study workflow including detailed methods can be found in 1) the **‘Method’** section in the main text and 2) the **‘Supplemental Methods’** of the manuscript [doi will be added after a paper is published].
 
@@ -45,7 +45,7 @@ Brief description is provided for each file, including additional/required data,
 
 ### Step I
 <details open="open">
-    <summary><b>Genome-wide association study</b></summary>
+    <summary><b>Genome-wide association study of patients with BD</b></summary>
   <ol>
       
 - **Genome-wide association study (GWAS) analysis & imputation:** we did not provide the code here. A summary is described as follows.
@@ -60,7 +60,7 @@ Brief description is provided for each file, including additional/required data,
     
 ### Step II
 <details open="open">
-    <summary><b>iPSC transcriptomic analysis</b></summary>
+    <summary><b>Transcriptomic analysis of iPSC-derived neurons</b></summary>
   <ol>
 
 -   **Raw data of RNA-sequencing (RNA-seq)** — stored in NCBI's Gene Expression Omnibus (Edgar et al., 2002) and are accessible through [**GEO Series accession number GSE205422**](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205422).

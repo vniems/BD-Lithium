@@ -43,8 +43,10 @@ The study workflow including detailed methods can be found in 1) the **‘Method
 This project includes **3 subdirectories** as shown below. Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
 
 ### Step I
+<details open="open">
 #### Genome-wide association study
-
+  <summary>#### Genome-wide association study>
+  <ol>
 -   **Genome-wide association study (GWAS) analysis & imputation:** we did not provide the code. Here’s the summary:
     -   DNA from 1106 subjects was genotyped on the Illumina PsychChip (https://sites.google.com/a/broadinstitute.org/psych-chip-resources/home).
     -   Genotype data was screened for low call rate, low genotyping rate, and Hardy-Weinberg equilibrium. Imputation was performed using IMPUTE2. Association was tested by linear regression as implemented in PLINK.
@@ -52,7 +54,9 @@ This project includes **3 subdirectories** as shown below. Brief description is 
 - **Gene-based analysis:** we used a Versatile Gene-based Association Test (VEGAS): a web-based tool, https://vegas2.qimrberghofer.edu.au/.
 
 - **GWAS prioritizing analysis:** The GWAS results were reprioritized by using network information and the algorithms implemented in **genome-wide boosing analysis (GWAB)** and NetWAS methods.
-
+</ol>
+</details>
+    
 ### Step II
 #### iPSC transcriptomic analysis
 

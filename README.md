@@ -57,29 +57,33 @@ Brief description is provided for each file, including additional/required data,
             <br>
             <li><strong>Gene-based analysis:</strong> we used a Versatile Gene-based Association Test (VEGAS), a web-based tool, https://vegas2.qimrberghofer.edu.au/.</li>
             <br>
-            <li><strong>GWAS prioritizing analysis:</strong> the GWAS results were reprioritized by using network information and the algorithms implemented in **genome-wide boosing analysis (GWAB)** and NetWAS methods.</li>      
+            <li><strong>GWAS prioritizing analysis:</strong> the GWAS results were reprioritized by using network information and the algorithms implemented in <strong>genome-wide boosing analysis (GWAB)</strong> and NetWAS methods.</li>      
         </ul>
     </ul>
 </details>
-            
-       
-
-
-      
-- **Genome-wide association study (GWAS) analysis & imputation:** we did not provide the code here. A summary is described as follows.
-    -   DNA from 1106 subjects was genotyped on the Illumina PsychChip (https://sites.google.com/a/broadinstitute.org/psych-chip-resources/home).
-    -   Genotype data was screened for low call rate, low genotyping rate, and Hardy-Weinberg equilibrium. Imputation was performed using IMPUTE2. Association was tested by linear regression as implemented in PLINK.
-
-- **Gene-based analysis:** we used a Versatile Gene-based Association Test (VEGAS), a web-based tool, https://vegas2.qimrberghofer.edu.au/.
-
-- **GWAS prioritizing analysis:** the GWAS results were reprioritized by using network information and the algorithms implemented in **genome-wide boosing analysis (GWAB)** and NetWAS methods.
-  </ol>
-</details>
+               
     
 ### Step II
-<details open="open">
+<details>
     <summary><b>Transcriptomic analysis of iPSC-derived neurons</b></summary>
-  <ol>
+    <br>
+    <ul>
+        <ul>
+            <li><strong>Raw data of RNA-sequencing (RNA-seq)</strong> —stored in NCBI's Gene Expression Omnibus (Edgar et al., 2002) and are accessible through [<strong>GEO Series accession number GSE205422</strong>](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205422)</li>
+            <br>
+            <li><strong>RNA-seq analysis:</strong></li>
+            <ul>
+                    <li>Differential expression analysis: the functions are used for RNA-seq differential expression analysis and downstream analysis.</li>
+                    <li>Input files:<li>
+                    <ul>
+                        <li>Data #1: Phenotype data, kelsoe_metadata_111.csv</li>
+                        <li>Data #2: Gene expression data, all_genes_results_111s.txt</li>
+                    </ul>
+            </ul>
+        </ul>
+      </ul>
+</details>           
+            
 
 -   **Raw data of RNA-sequencing (RNA-seq)** — stored in NCBI's Gene Expression Omnibus (Edgar et al., 2002) and are accessible through [**GEO Series accession number GSE205422**](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205422).
 

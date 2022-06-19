@@ -1,9 +1,9 @@
 <h1 align="center">Bipolar Disorder and Lithium Response: Pharmacogenomic Study
 
-![](https://img.shields.io/badge/Release%20Date-June%202022-red?style=flat&logo=github&logoColor=red)      ![](https://img.shields.io/badge/Release-v1.1.0-orange?style=flat&logo=github&logoColor=orange) ![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen) ![](https://img.shields.io/badge/Platform-R%20|%20Python-blue?style=flat)</h1>
+![](https://img.shields.io/badge/Release-v1.1.0-orange?style=flat&logo=github&logoColor=orange)    ![](https://img.shields.io/badge/Release%20Date-June%202022-red?style=flat&logo=github&logoColor=red)   ![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen)   ![](https://img.shields.io/badge/Platform-R%20|%20Python-blue?style=flat)</h1>
 
 
-### This is the README for the project of “Bipolar Disorder and Lithium Response: Pharmacogenomic  Study”.
+### This is the README for the project of “Bipolar Disorder and Lithium Response: Pharmacogenomic Study”.
 ### Note that this project is temporality under development, and coming soon. Some info is not completed.
 
 
@@ -70,7 +70,7 @@ This project includes **three subdirectories** based on the analytic steps as sh
     <br>
     <ul>
         <ul>
-            <li><strong>Raw data of RNA-sequencing (RNA-seq)</strong> —stored in NCBI's Gene Expression Omnibus (Edgar et al., 2002) and are accessible through <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205422"><strong>GEO Series accession number GSE205422</strong></a>.</li>
+            <li><strong>Raw data of RNA-sequencing (RNA-seq)</strong> —stored in NCBI's Gene Expression Omnibus (Edgar et al. 2002) and are accessible through <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205422"><strong>GEO Series accession number GSE205422</strong></a>.</li>
             <br>
             <li><strong>RNA-seq analysis:</strong></li>
             <ul>
@@ -79,7 +79,7 @@ This project includes **three subdirectories** based on the analytic steps as sh
                     <li><strong>Input files:</strong></li>
                         <ul>
                             ▸ Data #1: Phenotype data, kelsoe_metadata_111.csv
-                            <p>▸ Data #2: Gene expression data, all_genes_results_111s.txt
+                            <p>▸ Data #2: Gene expression data after passing quality controls and alignment processes, all_genes_results_111s.txt
                         </ul>
             </ul>
          </ul>

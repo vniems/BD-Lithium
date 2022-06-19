@@ -152,10 +152,10 @@ Contributions for this project are:
 
 **Other files except the code:** ![](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0%20-yellow?style=flat&logo=creativecommons&logoColor=white)
 
-All other files, such as input files, are part of the study published in the manuscript entitled, “ …. ", which are *under* [**a CC BY license (Creative Commons Attribution 4.0 International License)**](https://creativecommons.org/licenses/by/4.0/legalcode).
+All other files, such as input files, are part of the study published in the manuscript entitled, “Focal adhesion is associated with lithium response in bipolar disorder: evidence from a network-based multi-omics analysis", which are *under* [**a CC BY license (Creative Commons Attribution 4.0 International License)**](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 
-> **Artwork:** ![](images/by-nc-sa-01.svg){width="80"} <p>Copyright © 2022 by Vipavee N. The artwork used in this project is licensed under the term of [<b>a CC BY-NC-SA 4.0 license (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License)</b>](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+> **Artwork:** ![](src=~images/by-nc-sa-01.svg){width="80"} <p>Copyright © 2022 by Vipavee N. The artwork used in this project is licensed under the term of [<b>a CC BY-NC-SA 4.0 license (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License)</b>](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
  
 ------------------------------------------------------------------------
 

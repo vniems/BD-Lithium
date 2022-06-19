@@ -1,6 +1,6 @@
 <h1 align="center">Bipolar Disorder and Lithium Response: Pharmacogenomic Study
 
-![](https://img.shields.io/badge/Release%20Date-June%202022-red?style=flat&logo=github&logoColor=red)      ![](https://img.shields.io/badge/Release-v1.1.0-orange?style=flat&logo=github&logoColor=orange) ![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen)</h1>
+![](https://img.shields.io/badge/Release%20Date-June%202022-red?style=flat&logo=github&logoColor=red)      ![](https://img.shields.io/badge/Release-v1.1.0-orange?style=flat&logo=github&logoColor=orange) ![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen) ![](https://img.shields.io/badge/Platform-R%20|%20Python-blue?style=flat)</h1>
 
 
 ### This is the README for the project of “Bipolar Disorder and Lithium Response: Pharmacogenomic  Study”.
@@ -41,7 +41,7 @@ The study workflow including detailed methods can be found in 1) the **‘Method
 
 ## The Project Workflow and File Descriptions
 This project includes **three subdirectories** based on the analytic steps as shown below. 
-Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
+<p>Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
 
 ### Step I
 <details open="open">
@@ -114,7 +114,7 @@ All source code shown here can be found in this GitHub project:
 
 | Features                     |<img src="https://github.com/SommaiGH/master-readme/blob/main/img/R-GitHub.svg" width="50px">|<img src="https://github.com/SommaiGH/master-readme/blob/main/img/Python-GItHub.svg" width="50px">|Additional software required|
 |------------------------------|:--------:|:--------:|:------------------------:|
-| NetWas analysis              |          |     √    |                          |
+| NetWAS analysis              |          |     √    |                          |
 | RNA-seq analysis             |    √     |          |                          |
 | Network propagation analysis |          |     √    |          Cytoscape       |
 | Cluster analysis             |          |          |                          |
@@ -146,22 +146,23 @@ Contributions for this project are:
 
 **Copyright © 2022**
 
-**Code sources:** ![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen)
+**Code:** ![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen)
 
 **The code in this project** is *free* to be used and/or modify *under the terms of* **the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version**. Please see the policy and term of use <u>[here](https://github.com/SommaiGH/master-readme/blob/main/license.md)</u>.
+<br>
 
 **Other files except the code:** ![](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0%20-yellow?style=flat&logo=creativecommons&logoColor=white)
 
 All other files, such as input files, are part of the study published in the manuscript entitled, “Focal adhesion is associated with lithium response in bipolar disorder: evidence from a network-based multi-omics analysis", which are *under* [**a CC BY license (Creative Commons Attribution 4.0 International License)**](https://creativecommons.org/licenses/by/4.0/legalcode).
+<br>
 
-
-> **Artwork:** ![](src=~images/by-nc-sa-01.svg){width="80"} <p>Copyright © 2022 by Vipavee N. The artwork used in this project is licensed under the term of [<b>a CC BY-NC-SA 4.0 license (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License)</b>](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
- 
+> **Artwork:** ![](https://user-images.githubusercontent.com/107134586/174465149-2d248174-2da8-43eb-89b5-1cba7459f722.svg) <p>Copyright © 2022 by Vipavee N. The artwork used in this project is licensed under the term of [<b>a CC BY-NC-SA 4.0 license (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License)</b>](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+    
 ------------------------------------------------------------------------
 
 ## Citation
 
-If you use the code from this project, please cite with the CITATION.cff</b> format. See our `CITATION.cff` file <u>here</u> or **the Council of Science Editors (CSE)** citation styles as an example below.
+If you use the code from this project, please cite with <b>the CITATION.cff</b> format (see our `CITATION.cff` file <u>here</u>) or **the Council of Science Editors (CSE)** citation styles as an example below.
 
     CSE Bibliography Format:   
     
@@ -179,9 +180,11 @@ If you use the code from this project, please cite with the CITATION.cff</b> for
 
 <p>Mishra A, Macgregor S. 2015. VEGAS2: Software for more flexible gene-based testing. Twin Res Hum Genet. 18(1):86-91.
 
-<p>Purcell S, Neale B, Todd-Brown K, Thomas L, Ferreira MA, Bender D, Maller J, Sklar P, de Bakker PI, Daly MJ et al. 2007. PLINK:A tool set for whole-genome association and population-based linkage analyses. Am J Hum Genet. 81(3):559-575.
+<p>Purcell S, Neale B, Todd-Brown K, Thomas L, Ferreira MA, Bender D, Maller J, Sklar P, de Bakker PI, Daly MJ et al. 2007. PLINK: A tool set for whole-genome association and population-based linkage analyses. Am J Hum Genet. 81(3):559-575.
 
-<p>Shim JE, Bang C, Yang S, Lee T, Hwang S, Kim CY, Singh-Blom UM, Marcotte EM, Lee I. 2017. GWAB:A web server for the network-based boosting of human genome-wide association data. Nucleic Acids Res. 45(W1):W154-W161.
+<p>Shim JE, Bang C, Yang S, Lee T, Hwang S, Kim CY, Singh-Blom UM, Marcotte EM, Lee I. 2017. GWAB: A web server for the network-based boosting of human genome-wide association data. Nucleic Acids Res. 45(W1):W154-W161.
+    
+    
+ 
 
-
-
+    

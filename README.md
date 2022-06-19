@@ -69,16 +69,16 @@ Brief description is provided for each file, including additional/required data,
     <br>
     <ul>
         <ul>
-            <li><strong>Raw data of RNA-sequencing (RNA-seq)</strong> —stored in NCBI's Gene Expression Omnibus (Edgar et al., 2002) and are accessible through [<strong>GEO Series accession number GSE205422</strong>].</li>(https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205422)
+            <li><strong>Raw data of RNA-sequencing (RNA-seq)</strong> —stored in NCBI's Gene Expression Omnibus (Edgar et al., 2002) and are accessible through [<strong>GEO Series accession number GSE205422</strong>](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205422).</li>
             <br>
             <li><strong>RNA-seq analysis:</strong></li>
             <ul>
                     <li>Differential expression analysis: the functions are used for RNA-seq differential expression analysis and downstream analysis.</li>
                     <li>Input files:<li>
-                <ul>
-                      <li>Data #1: Phenotype data, kelsoe_metadata_111.csv</li>
-                      <li>Data #2: Gene expression data, all_genes_results_111s.txt</li>
-                </ul>
+                     <ul>
+                            <li>Data #1: Phenotype data, kelsoe_metadata_111.csv</li>
+                            <li>Data #2: Gene expression data, all_genes_results_111s.txt</li>
+                     </ul>
             </ul>
         </ul>
       </ul>

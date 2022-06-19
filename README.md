@@ -53,12 +53,12 @@ This project includes **three subdirectories** based on the analytic steps as sh
             <ul>
             <br>
                 <li>DNA from 1106 subjects was genotyped on the Illumina PsychChip (https://sites.google.com/a/broadinstitute.org/psych-chip-resources/home).</li>
-                <li>Genotype data was screened for low call rate, low genotyping rate, and Hardy-Weinberg equilibrium. Imputation was performed using IMPUTE2. Association was tested by linear regression as implemented in PLINK.</li>
+                <li>Genotype data was screened for low call rate, low genotyping rate, and Hardy-Weinberg equilibrium. Imputation was performed using IMPUTE2 (Howie et al. 2009). Association was tested by linear regression as implemented in PLINK (Purcell et al. 2007).</li>
             </ul>
             <br>
-            <li><strong>Gene-based analysis:</strong> we used a Versatile Gene-based Association Test (VEGAS), a web-based tool, https://vegas2.qimrberghofer.edu.au/.</li>
+            <li><strong>Gene-based analysis:</strong> we used a Versatile Gene-based Association Test (VEGAS) (Mishra and Macgregor 2015), a web-based tool, https://vegas2.qimrberghofer.edu.au/.</li>
             <br>
-            <li><strong>GWAS prioritizing analysis:</strong> the GWAS results were reprioritized by using network information and the algorithms implemented in <strong>genome-wide boosting analysis (GWAB)</strong> and NetWAS methods.</li>      
+            <li><strong>GWAS prioritizing analysis:</strong> the GWAS results were reprioritized by using network information and the algorithms implemented in <strong>genome-wide boosting analysis (GWAB)</strong> (Shim et al. 2017) and NetWAS (Greene et al. 2015) methods.</li>      
        </ul>
     </ul>
 </details>

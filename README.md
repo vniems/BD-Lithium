@@ -76,8 +76,8 @@ Brief description is provided for each file, including additional/required data,
                     <li>Differential expression analysis: the functions are used for RNA-seq differential expression analysis and downstream analysis.</li>
                     <li>Input files:</li>
                         <ul>
-                            <li>➤Data #1: Phenotype data, kelsoe_metadata_111.csv</li>
-                            <li>➤Data #2: Gene expression data, all_genes_results_111s.txt</li>
+                            ➤Data #1: Phenotype data, kelsoe_metadata_111.csv
+                            ➤Data #2: Gene expression data, all_genes_results_111s.txt
                         </ul>
             </ul>
          </ul>

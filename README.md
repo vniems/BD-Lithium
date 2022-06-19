@@ -44,7 +44,7 @@ This project includes **3 subdirectories** based on the analytic steps as shown 
 Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
 
 ### Step I
-<details>
+<details open="open">
     <summary><b>Genome-wide association study of patients with BD</b></summary>
     <br>
     <ul>
@@ -65,7 +65,7 @@ Brief description is provided for each file, including additional/required data,
                
     
 ### Step II
-<details>
+<details open="open">
     <summary><b>Transcriptomic analysis of iPSC-derived neurons</b></summary>
     <br>
     <ul>

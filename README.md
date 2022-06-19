@@ -161,14 +161,12 @@ All other files, such as input files, are part of the study published in the man
 
 ## Citation
 
-If you use the code from this project, please cite with **the Council of Science Editors (CSE)** citation styles as an example below.
+If you use the code from this project, please cite with the CITATION.cff</b> format. See our `CITATION.cff` file <u>here</u> or **the Council of Science Editors (CSE)** citation styles as an example below.
 
     CSE Bibliography Format:   
     
     Niemsiri V, Rosenthal SB, Fisch KM, and Kelsoe JR. 2022. Bipolar Disorder and Lithium Response. San Francisco (CA): GitHub; [accessed 2022 Jun 6]. https://github.com/vniems/BD-Lithium.
 
-    
-Or cite with <b>the CITATION.cff</b> format. See our `CITATION.cff` file <u>here</u>.
 ------------------------------------------------------------------------
 
 ## References

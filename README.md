@@ -4,7 +4,7 @@
 
 
 ### This is the README for the project of “Bipolar Disorder and Lithium Response: Pharmacogenomic  Study”.
-### Note that this project is temporality under development, and coming soon.
+### Note that this project is temporality under development, and coming soon. Some info is not completed.
 
 
 

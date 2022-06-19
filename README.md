@@ -48,18 +48,18 @@ Brief description is provided for each file, including additional/required data,
     <summary><b>Genome-wide association study of patients with BD</b></summary>
     <br>
     <ul>
-    <ul>
-    <li><strong>Genome-wide association study (GWAS) analysis & imputation:</strong> we did not provide the code here. A summary is described as follows.</li>    
-      <ul>
-      <br>
-          <li>DNA from 1106 subjects was genotyped on the Illumina PsychChip (https://sites.google.com/a/broadinstitute.org/psych-chip-resources/home).</li>
-          <li>Genotype data was screened for low call rate, low genotyping rate, and Hardy-Weinberg equilibrium. Imputation was performed using IMPUTE2. Association was tested by linear regression as implemented in PLINK.</li>
-      </ul>
-      <br>
-   <li><strong>Gene-based analysis:</strong> we used a Versatile Gene-based Association Test (VEGAS), a web-based tool, https://vegas2.qimrberghofer.edu.au/.</li>
-      <br>
-   <li><strong>GWAS prioritizing analysis:</strong> the GWAS results were reprioritized by using network information and the algorithms implemented in <strong>genome-wide boosing analysis (GWAB)</strong> and NetWAS methods.</li>      
-        </ul>
+        <ul>
+            <li><strong>Genome-wide association study (GWAS) analysis & imputation:</strong> we did not provide the code here. A summary is described as follows.</li>    
+            <ul>
+            <br>
+                <li>DNA from 1106 subjects was genotyped on the Illumina PsychChip (https://sites.google.com/a/broadinstitute.org/psych-chip-resources/home).</li>
+                <li>Genotype data was screened for low call rate, low genotyping rate, and Hardy-Weinberg equilibrium. Imputation was performed using IMPUTE2. Association was tested by linear regression as implemented in PLINK.</li>
+            </ul>
+            <br>
+            <li><strong>Gene-based analysis:</strong> we used a Versatile Gene-based Association Test (VEGAS), a web-based tool, https://vegas2.qimrberghofer.edu.au/.</li>
+            <br>
+            <li><strong>GWAS prioritizing analysis:</strong> the GWAS results were reprioritized by using network information and the algorithms implemented in <strong>genome-wide boosing analysis (GWAB)</strong> and NetWAS methods.</li>      
+       </ul>
     </ul>
 </details>
                

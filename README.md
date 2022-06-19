@@ -69,7 +69,7 @@ Brief description is provided for each file, including additional/required data,
     <br>
     <ul>
         <ul>
-            <li><strong>Raw data of RNA-sequencing (RNA-seq)</strong> —stored in NCBI's Gene Expression Omnibus (Edgar et al., 2002) and are accessible through [<strong>GEO Series accession number GSE205422</strong>](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205422).</li>
+            <li><strong>Raw data of RNA-sequencing (RNA-seq)</strong> —stored in NCBI's Gene Expression Omnibus (Edgar et al., 2002) and are accessible through <a>href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205422"<strong>GEO Series accession number GSE205422</strong>]</a>.</li>
             <br>
             <li><strong>RNA-seq analysis:</strong></li>
             <ul>

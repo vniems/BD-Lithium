@@ -56,6 +56,7 @@ Brief description is provided for each file, including additional/required data,
             </ul>
             <br>
             <li><strong>Gene-based analysis:</strong> we used a Versatile Gene-based Association Test (VEGAS), a web-based tool, https://vegas2.qimrberghofer.edu.au/.</li>
+            <br>
             <li><strong>GWAS prioritizing analysis:</strong> the GWAS results were reprioritized by using network information and the algorithms implemented in **genome-wide boosing analysis (GWAB)** and NetWAS methods.</li>      
         </ul>
     </ul>

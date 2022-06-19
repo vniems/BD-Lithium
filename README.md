@@ -40,7 +40,7 @@ The study workflow including detailed methods can be found in 1) the **‘Method
 ------------------------------------------------------------------------
 
 ## The Project Workflow and File Descriptions
-This project includes **3 subdirectories** based on the analytic steps as shown below. 
+This project includes **three subdirectories** based on the analytic steps as shown below. 
 Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
 
 ### Step I
@@ -129,16 +129,16 @@ Contributions for this project are:
 
 -   **Code development team:**
    
-    - Kathleen M. Fisch, Ph.D.
-    - Sara Brin Rosenthal, Ph.D.
+    - Kathleen M. Fisch, PhD
+    - Sara Brin Rosenthal, PhD
     
 -   **Executive manager and sponsor:**
 
-    - John R. Kelsoe, M.D.
+    - John R. Kelsoe, MD
     
 -   **Administrator:**
  
-    - Vipavee Niemsiri, M.D., Ph.D.
+    - Vipavee Niemsiri, MD, PhD
 
 ------------------------------------------------------------------------
 
@@ -146,11 +146,17 @@ Contributions for this project are:
 
 **Copyright © 2022**
 
+**Code sources:** ![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen)
+
 **The code in this project** is *free* to be used and/or modify *under the terms of* **the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version**. Please see the policy and term of use <u>[here](https://github.com/SommaiGH/master-readme/blob/main/license.md)</u>.
 
-**Note that** all other files such as input data files, as part of the manuscript entitled, *“Focal adhesion is associated with lithium response in bipolar disorder: evidence from a network-based multi-omics analysis"* published in MolecularPsychiatry [doi will be added] are under **a CC BY 4.0 license (Creative Commons Attribution 4.0 International license)**.
- 
+**Other files except the code:** ![](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0%20-yellow?style=flat&logo=creativecommons&logoColor=white)
 
+All other files, such as input files, are part of the study published in the manuscript entitled, “ …. ", which are *under* [**a CC BY license (Creative Commons Attribution 4.0 International License)**](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+
+> **Artwork:** ![](images/by-nc-sa-01.svg){width="80"} <p>Copyright © 2022 by Vipavee N. The artwork used in this project is licensed under the term of [<b>a CC BY-NC-SA 4.0 license (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License)</b>](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+ 
 ------------------------------------------------------------------------
 
 ## Citation
@@ -161,10 +167,23 @@ If you use the code from this project, please cite with **the Council of Science
     
     Niemsiri V, Rosenthal SB, Fisch KM, and Kelsoe JR. 2022. Bipolar Disorder and Lithium Response. San Francisco (CA): GitHub; [accessed 2022 Jun 6]. https://github.com/vniems/BD-Lithium.
 
+    
+Or cite with <b>the CITATION.cff</b> format. See our `CITATION.cff` file <u>here</u>.
 ------------------------------------------------------------------------
 
 ## References
 
-*Will be provided.*
+<p>Edgar R, Domrachev M, Lash AE. 2002. Gene Expression Omnibus: NCBI gene expression and hybridization array data repository. Nucleic Acids Res. 30(1):207-210.
+
+<p>Greene CS, Krishnan A, Wong AK, Ricciotti E, Zelaya RA, Himmelstein DS, Zhang R, Hartmann BM, Zaslavsky E, Sealfon SC et al. 2015. Understanding multicellular function and disease with human tissue-specific networks. Nat Genet. 47(6):569-576.
+
+<p>Howie BN, Donnelly P, Marchini J. 2009. A flexible and accurate genotype imputation method for the next generation of genome-wide association studies. PLoS Genet. 5(6):e1000529.
+
+<p>Mishra A, Macgregor S. 2015. VEGAS2: Software for more flexible gene-based testing. Twin Res Hum Genet. 18(1):86-91.
+
+<p>Purcell S, Neale B, Todd-Brown K, Thomas L, Ferreira MA, Bender D, Maller J, Sklar P, de Bakker PI, Daly MJ et al. 2007. PLINK:A tool set for whole-genome association and population-based linkage analyses. Am J Hum Genet. 81(3):559-575.
+
+<p>Shim JE, Bang C, Yang S, Lee T, Hwang S, Kim CY, Singh-Blom UM, Marcotte EM, Lee I. 2017. GWAB:A web server for the network-based boosting of human genome-wide association data. Nucleic Acids Res. 45(W1):W154-W161.
+
 
 

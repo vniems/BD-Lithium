@@ -44,9 +44,26 @@ This project includes **3 subdirectories** based on the analytic steps as shown 
 Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
 
 ### Step I
-<details open="open">
+<details>
     <summary><b>Genome-wide association study of patients with BD</b></summary>
-  <ol>
+    <br>
+    <ul>
+        <li>
+            <code>type</code>:
+            <ul>
+                <li><strong>Genome-wide association study (GWAS) analysis & imputation:</strong> we did not provide the code here. A summary is described as follows.</li>
+            </ul>
+        </li>
+        <code>value</code>:
+        <ul>
+    -   DNA from 1106 subjects was genotyped on the Illumina PsychChip (https://sites.google.com/a/broadinstitute.org/psych-chip-resources/home).
+    -   Genotype data was screened for low call rate, low genotyping rate, and Hardy-Weinberg equilibrium. Imputation was performed using IMPUTE2. Association was tested by linear regression as implemented in PLINK.
+
+<details>
+  <summary><b>Genome-wide association study of patients with BD</b></summary>
+  <br>
+    <ul>
+            <li>
       
 - **Genome-wide association study (GWAS) analysis & imputation:** we did not provide the code here. A summary is described as follows.
     -   DNA from 1106 subjects was genotyped on the Illumina PsychChip (https://sites.google.com/a/broadinstitute.org/psych-chip-resources/home).

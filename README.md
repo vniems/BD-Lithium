@@ -77,7 +77,7 @@ Brief description is provided for each file, including additional/required data,
                     <li>Input files:</li>
                         <ul>
                             ➤Data #1: Phenotype data, kelsoe_metadata_111.csv
-                            ➤Data #2: Gene expression data, all_genes_results_111s.txt
+                            <p>➤Data #2: Gene expression data, all_genes_results_111s.txt
                         </ul>
             </ul>
          </ul>

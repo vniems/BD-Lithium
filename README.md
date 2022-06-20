@@ -44,7 +44,7 @@ This project includes **three subdirectories** based on the analytic steps as sh
 <p>Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
 
 ### Step I
-<details open="open">
+<details open = "open">
     <summary><b>Genome-wide association study of patients with BD</b></summary>
     <br>
     <ul>
@@ -77,10 +77,11 @@ This project includes **three subdirectories** based on the analytic steps as sh
                 <br>
                     <li><strong>Differential expression analysis:</strong> the functions are used for RNA-seq differential expression analysis and downstream analysis.</li>
                     <li><strong>Input files:</strong></li>
-                        <ul>
-                            ▸ Data #1: Phenotype data, kelsoe_metadata_111.csv
-                            <p>▸ Data #2: Gene expression data after passing quality controls and alignment processes, all_genes_results_111s.txt
-                        </ul>
+                         <ul>
+                            <br>
+                                <di>▫︎ <strong>Data #1:</strong> Phenotypic data - <code>kelsoe_metadata_111.csv</code>.</di>
+                                <p><di>▫︎ <strong>Data #2:</strong> Transcriptomic data from the RNA-seq raw data after quality control and alignment processes - <code>all_genes_results_111.txt</code>.</di>
+                         </ul>
             </ul>
          </ul>
      </ul>
@@ -90,20 +91,25 @@ This project includes **three subdirectories** based on the analytic steps as sh
 ### Step III
 <details open="open">
     <summary><b>Network and functional enrichment analyses</b></summary>
-  <ol>
-
--   **Network propagation analysis**
-
--   **Cluster analysis**
-
--   **KEGG pathway analysis**
-
--   **Pathview creation**
-
--   **Input files:**
-    -   Data #3: DE_Genes_Li and CTRL_LRvsNR_for_Katie.xlsx
-    -   Data #4: Prioritized_genes_boosting_methods_5percent_190708.xlsx
-</ol>
+    <br>
+    <ul>
+        <ul>
+            <li><strong>Network propagation analysis</strong></li>
+            <br>
+            <li><strong>Cluster analysis</strong></li>
+            <br>
+            <li><strong>KEGG pathway analysis</strong></li>
+            <br>
+            <li><strong>Pathview creation</strong></li>
+            <br>
+            <li><strong>Input files:</strong></li>
+            <ul>
+                <br> 
+                    <li><strong>Data #3:</strong> A list of differential expressed (DE) genes, <em>n</em> = 41 genes - <code>DE_Genes_Li and CTRL_LRvsNR.xlsx</code>.</li>
+                    <li><strong>Data #4:</strong>  A list of the top 5% prioritized genes obtained from VEGAS, GWAB, and NetWAS - <code>prioritized_genes_boosting_methods_5percent_190708.xlsx</code>.</li>
+            </ul>
+        </ul>
+     </ul>
 </details>
 
 ------------------------------------------------------------------------

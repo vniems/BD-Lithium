@@ -105,7 +105,7 @@ This project includes **three subdirectories** based on the analytic steps as sh
             <li><strong>Network input files:</strong></li>
             <ul>
                 <br> 
-                    <li><strong>Data #3:</strong> A list of significantly differentially expressed (DE) genes, <em>n</em> = 41 genes - <code>DE_Genes_Li and CTRL_LRvsNR.xlsx</code>.</li>
+                    <li><strong>Data #3:</strong> A list of significantly differentially expressed (DE) genes in Li responders vs Li non-responders (LR vs NR), <em>n</em> = 41 genes - <code>DE_Genes_Li and CTRL_LRvsNR.xlsx</code>.</li>
                     <li><strong>Data #4:</strong>  A list of the top 5% prioritized genes obtained from VEGAS, GWAB, and NetWAS - <code>prioritized_genes_boosting_methods_5percent_190708.xlsx</code>.</li>
             </ul>
         </ul>

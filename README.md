@@ -76,7 +76,7 @@ This project includes **three subdirectories** based on the analytic steps as sh
             <ul>
                 <br>
                     <li><strong>Differential expression analysis:</strong> the functions are used for RNA-seq differential expression analysis and downstream analysis.</li>
-                    <li><strong>Input files:</strong></li>
+                    <li><strong>RNA-seq input files:</strong></li>
                          <ul>
                             <br>
                                 <di>▫︎ <strong>Data #1:</strong> Phenotypic data - <code>kelsoe_metadata_111.csv</code>.</di>
@@ -102,10 +102,10 @@ This project includes **three subdirectories** based on the analytic steps as sh
             <br>
             <li><strong>Pathview creation</strong></li>
             <br>
-            <li><strong>Input files:</strong></li>
+            <li><strong>Network input files:</strong></li>
             <ul>
                 <br> 
-                    <li><strong>Data #3:</strong> A list of differential expressed (DE) genes, <em>n</em> = 41 genes - <code>DE_Genes_Li and CTRL_LRvsNR.xlsx</code>.</li>
+                    <li><strong>Data #3:</strong> A list of significantly differentially expressed (DE) genes, <em>n</em> = 41 genes - <code>DE_Genes_Li and CTRL_LRvsNR.xlsx</code>.</li>
                     <li><strong>Data #4:</strong>  A list of the top 5% prioritized genes obtained from VEGAS, GWAB, and NetWAS - <code>prioritized_genes_boosting_methods_5percent_190708.xlsx</code>.</li>
             </ul>
         </ul>

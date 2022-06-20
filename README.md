@@ -166,7 +166,7 @@ Contents in this project are under licenses as follows:
 
 ## Citation
 
-If you use the code from this project, please cite with <b>the CITATION.cff</b> format (see our `CITATION.cff` file [<u>here</u>](https://github.com/vniems/BD-Lithium/blob/main/CITATION/CITATION_v110_2022_06_19.cff) or **the Council of Science Editors (CSE)** citation styles as an example below.<br>
+If you use the code from this project, please cite with <b>the CITATION.cff</b> format (see our `CITATION.cff` file [<u>here</u>](https://github.com/vniems/BD-Lithium/blob/main/CITATION/CITATION_v110_2022_06_19.cff)) or **the Council of Science Editors (CSE)** citation styles as an example below.<br>
 
     CSE Bibliography Format:   
     

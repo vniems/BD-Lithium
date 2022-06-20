@@ -170,7 +170,7 @@ If you use the code from this project, please cite with <b>the CITATION.cff</b> 
 
     CSE Bibliography Format:   
     
-    Niemsiri V, Rosenthal SB, Fisch KM, and Kelsoe JR. 2022. Bipolar Disorder and Lithium Response. San Francisco (CA): GitHub; [accessed 2022 Jun 6]. https://github.com/vniems/BD-Lithium.
+    Niemsiri V, Rosenthal SB, Fisch KM, and Kelsoe JR. 2022. Bipolar Disorder and Lithium Response: Pharmacogenomic Study. San Francisco (CA): GitHub; [accessed 2022 Jun 6]. https://github.com/vniems/BD-Lithium.
 
 ------------------------------------------------------------------------
 

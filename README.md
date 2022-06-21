@@ -27,7 +27,7 @@ Here, we make available the analytic tools employed as part of the main study, o
 -  [Contributing](#Contributing)
 -  [License](#License)
 -  [Citation](#Citation)
--  [References](#References)
+-  [References](#references)
 
 ------------------------------------------------------------------------
 

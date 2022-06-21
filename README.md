@@ -154,7 +154,7 @@ Contributions for this project are:
     
 Contents in this project are under licenses as follows:
 
-- **Source code:** ![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen)<p>**The source code in this project** is *free* to be used and/or modify *under the terms of* **the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version**. Please see the policy and term of use <u>[here](https://github.com/SommaiGH/master-readme/blob/main/license.md)</u>.
+- **Source code:** ![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen)<p>**The source code in this project** is *free* to be used and/or modify *under the terms of* **the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version**. Please see the policy and term of use <u>[here](https://github.com/vniems/BD-Lithium/blob/main/LICENSES/License_GLP3.0_later.md)</u>.
 <br>
 
 - **Other materials except the source code:** ![](https://img.shields.io/badge/License-CC--BY--4.0-yellow?style=flat&logo=creativecommons&logoColor=white)<p>Other contents, such as input data, are part of the study published in the manuscript entitled, “Focal adhesion is associated with lithium response in bipolar disorder: evidence from a network-based multi-omics analysis", which are *under* [**a CC BY license (Creative Commons Attribution 4.0 International License)**](https://creativecommons.org/licenses/by/4.0/legalcode).

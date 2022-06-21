@@ -40,7 +40,7 @@ The study workflow including detailed methods can be found in 1) the **‘Method
 ------------------------------------------------------------------------
 
 ## The Project Workflow and File Descriptions
-This project includes **three subdirectories** based on the analytic steps as shown below. 
+Source code of this project can be found in a <code>'DIRECTORIES'</code> folder, including **three subdirectories** based on the analytic steps as shown below. 
 <p>Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
 
 ### Step I

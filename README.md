@@ -19,9 +19,9 @@ Here, we make available the analytic tools employed as part of the main study, o
 -   [About our project](#About-Our-Project)   
 -   [Project aim](#Project-Aim)
 -   [The project workflow and file descriptions](#The-Project-Workflow-and-File-Descriptions)
-    - [Genome-wide association study of patients with BD](#Step-i)
-    - [Transcriptomic analysis of iPSC-derived neurons](#Step-ii)
-    - [Network and functional enrichment analyses](#Step-iii)
+    - [Step I: Genome-wide association study of patients with BD](#Step-i)
+    - [Step II: Transcriptomic analysis of iPSC-derived neurons](#Step-ii)
+    - [Step III: Network and functional enrichment analyses](#Step-iii)
 
 -  [Feature guidance](#Feature-guidance)
 -  [Contributing](#Contributing)

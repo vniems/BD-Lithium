@@ -1,13 +1,3 @@
----
-title: " "
-output: 
-    html_document:
-      toc: true
-      toc_depth: 5
-      toc_float: true
-      df_print: kable
-    github_document: default
----
 # License
 
 ## Attribution 4.0 International

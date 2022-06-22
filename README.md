@@ -80,7 +80,7 @@ Source code of this project can be found in a <code>'DIRECTORIES'</code> folder,
                          <ul>
                             <br>
                                 <di>▫︎ <strong>Data #1:</strong> Phenotypic data - <code>kelsoe_metadata_111.csv</code>.</di>
-                                <p><di>▫︎ <strong>Data #2:</strong> Transcriptomic data from the RNA-seq raw data after quality control and alignment processes - <code>all_genes_results_111.txt</code>. Not stored in this project, read more detail [<u>here</u>](https://github.com/vniems/BD-Lithium/tree/main/DIRECTORIES/STEP2-RNASeq/RNASeq_input/RNASeq_input_info.html)</di>
+                                <p><di>▫︎ <strong>Data #2:</strong> Transcriptomic data from the RNA-seq raw data after quality control and alignment processes - <code>all_genes_results_111.txt</code>. Note that data #2 was not stored in this project, read more detail <a href="https://github.com/vniems/BD-Lithium/tree/main/DIRECTORIES/STEP2-RNASeq/RNASeq_input/RNASeq_input_info.html"><u>here</u></a>.</di>
                          </ul>
             </ul>
          </ul>

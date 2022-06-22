@@ -1,6 +1,14 @@
-<h1 align="center">Bipolar Disorder and Lithium Response: Pharmacogenomic Study
+<br><br>
 
-![](https://img.shields.io/badge/Release-v1.1.0-orange?style=flat&logo=github&logoColor=orange)    ![](https://img.shields.io/badge/Release%20Date-June%202022-red?style=flat&logo=github&logoColor=red)   ![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen)   ![](https://img.shields.io/badge/Platform-R%20|%20Python-blue?style=flat)</h1>
+<p align="center">
+    <img src="https://github.com/vniems/BD-Lithium/blob/main/IMAGES/HEADER/BD_Lithium_project.png" width="770">
+</p>
+
+<br>
+<h1 align="center">Bipolar Disorder and Lithium Response: Pharmacogenomic Study
+<p>
+
+![](https://img.shields.io/badge/Release-v1.1.0-orange?style=flat&logo=github&logoColor=orange)    ![](https://img.shields.io/badge/Release%20Date-19%20June%202022-red?style=flat&logo=github&logoColor=red)   ![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen)   ![](https://img.shields.io/badge/Platform-R%20|%20Python-blue?style=flat)</h1>
 
 
 ### This is the README for the project of “Bipolar Disorder and Lithium Response: Pharmacogenomic Study”.
@@ -16,18 +24,18 @@ Here, we make available the analytic tools employed as part of the main study, o
 -----------------------------------------------------------------------
 
 ## Table of Contents
--   [About our project](#About-Our-Project)   
--   [Project aim](#Project-Aim)
--   [The project workflow and file descriptions](#The-Project-Workflow-and-File-Descriptions)
-    - [Step I - Genome-wide association study of patients with BD](#Step-i)
-    - [Step II - Transcriptomic analysis of iPSC-derived neurons](#Step-ii)
-    - [Step III - Network and functional enrichment analyses](#Step-iii)
+-   [About our project](#about-our-project)   
+-   [Project aim](#project-aim)
+-   [The project workflow and file descriptions](#the-project-workflow-and-file-descriptions)
+    - [Step I - Genome-wide association study of patients with BD](#step-i)
+    - [Step II - Transcriptomic analysis of iPSC-derived neurons](#step-ii)
+    - [Step III - Network and functional enrichment analyses](#step-iii)
 
--  [Feature guidance](#Feature-guidance)
--  [Contributing](#Contributing)
--  [License](#License)
--  [Citation](#Citation)
--  [References](#References)
+-  [Feature guidance](#feature-guidance)
+-  [Contributing](#contributing)
+-  [License](#license)
+-  [Citation](#citation)
+-  [References](#references)
 
 ------------------------------------------------------------------------
 
@@ -80,7 +88,7 @@ Source code of this project can be found in a <code>'DIRECTORIES'</code> folder,
                          <ul>
                             <br>
                                 <di>▫︎ <strong>Data #1:</strong> Phenotypic data - <code>kelsoe_metadata_111.csv</code>.</di>
-                                <p><di>▫︎ <strong>Data #2:</strong> Transcriptomic data from the RNA-seq raw data after quality control and alignment processes - <code>all_genes_results_111.txt</code>. Note that data #2 was not stored in this project, read more detail <a href="https://github.com/vniems/BD-Lithium/tree/main/DIRECTORIES/STEP2-RNASeq/RNASeq_input/RNASeq_input_info.html"><u>here</u></a>.</di>
+                                <p><di>▫︎ <strong>Data #2:</strong> Transcriptomic data from the RNA-seq raw data after quality control and alignment processes - <code>all_genes_results_111.txt</code>. <em>Note</em> that data #2 was not stored in this project, read more detail <a href="https://github.com/vniems/BD-Lithium/tree/main/DIRECTORIES/STEP2-RNASeq/RNASeq_input/RNASeq_input_info.html"><u>here</u></a>.</di>
                          </ul>
             </ul>
          </ul>
@@ -171,7 +179,7 @@ Contents in this project are under licenses as follows:
 
     CSE Bibliography Format:   
     
-    Niemsiri V, Rosenthal SB, Fisch KM, and Kelsoe JR. 2022. Bipolar Disorder and Lithium Response: Pharmacogenomic Study. San Francisco (CA): GitHub; [accessed 2022 Jun 6]. https://github.com/vniems/BD-Lithium.
+    Niemsiri V, Rosenthal SB, Fisch KM, and Kelsoe JR. 2022. Bipolar Disorder and Lithium Response: Pharmacogenomic Study. San Francisco (CA): GitHub; [accessed 2022 Jun 19]. https://github.com/vniems/BD-Lithium.
 
 ------------------------------------------------------------------------
 

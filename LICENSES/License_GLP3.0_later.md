@@ -584,4 +584,4 @@ You should have received a copy of the GNU General Public License along with thi
 
 ------------------------------------------------------------------------
 
-***Resource***: <https://spdx.org/licenses/GPL-3.0-or-later.html> (accessed: 4 June 2022)
+***Resource***: <https://spdx.org/licenses/GPL-3.0-or-later.html> (accessed: 4 June 2022).

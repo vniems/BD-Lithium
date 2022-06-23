@@ -540,7 +540,6 @@ The precise terms and conditions for copying, distribution and modification foll
     If the disclaimer of warranty and limitation of liability provided above cannot be given local legal effect according to their terms, reviewing courts shall apply local law that most closely approximates an absolute waiver of all civil liability in connection with the Program, unless a warranty or assumption of liability accompanies a copy of the Program in return for a fee.
 
     <p>
-    <br>
 
 ##### END OF TERMS AND CONDITIONS
 
@@ -571,7 +570,7 @@ You should also get your employer (if you work as a programmer) or school, if an
 The GNU General Public License does not permit incorporating your program into proprietary programs. If your program is a subroutine library, you may consider it more useful to permit linking proprietary applications with the library. If this is what you want to do, use the GNU Lesser General Public License instead of this License. But first, please read \<<https://www.gnu.org/licenses/why-not-lgpl>\>.
 <br>
 
-#### Standard License Header
+### Standard License Header
 
 \<one line to give the program's name and a brief idea of what it does.\> Copyright (C) <year> <name of author>
 

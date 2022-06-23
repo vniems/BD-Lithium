@@ -48,7 +48,7 @@ The study workflow including detailed methods can be found in 1) the **‘Method
 ------------------------------------------------------------------------
 
 ## The Project Workflow and File Descriptions
-Source code of this project can be found in a <code>'DIRECTORIES'</code> folder, including **three subdirectories** based on the analytic steps as shown below. 
+Source codes of this project can be found in a <code>'DIRECTORIES'</code> folder, including **three subdirectories** based on the analytic steps as shown below. 
 <p>Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
 
 ### Step I
@@ -124,7 +124,7 @@ Source code of this project can be found in a <code>'DIRECTORIES'</code> folder,
 
 ## Feature Guidance
 
-All source code shown here can be found in this GitHub project:<p>
+All source codes shown here can be found in this GitHub project:<p>
 
 | Features                     |<img src="https://github.com/SommaiGH/master-readme/blob/main/img/R-GitHub.svg" width="50px">|<img src="https://github.com/SommaiGH/master-readme/blob/main/img/Python-GItHub.svg" width="50px">|Additional software required|
 |------------------------------|:--------:|:--------:|:------------------------:|
@@ -162,10 +162,10 @@ Contributions for this project are:
     
 Contents in this project are under licenses as follows:
 
-- **Source code:** ![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen)<p>**The source code in this project** is *free* to be used and/or modify *under the terms of* **the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version**. Please see the policy and term of use <u>[here](https://github.com/vniems/BD-Lithium/blob/main/LICENSES/License_GLP3.0_later.md)</u>.
+- **Source codes:** ![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen)<p>**The source codes in this project** is *free* to be used and/or modify *under the terms of* **the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version**. Please see the policy and term of use <u>[here](https://github.com/vniems/BD-Lithium/blob/main/LICENSES/License_GLP3.0_later.md)</u>.
 <br>
 
-- **Other materials except the source code:** ![](https://img.shields.io/badge/License-CC--BY--4.0-yellow?style=flat&logo=creativecommons&logoColor=white)<p>Other contents, such as input data, are part of the study published in the manuscript entitled, “Focal adhesion is associated with lithium response in bipolar disorder: evidence from a network-based multi-omics analysis", which are *under* [**a CC BY license (Creative Commons Attribution 4.0 International License)**](https://creativecommons.org/licenses/by/4.0/legalcode).
+- **Other materials except the source codes:** ![](https://img.shields.io/badge/License-CC--BY--4.0-yellow?style=flat&logo=creativecommons&logoColor=white)<p>Other contents, such as input data, are part of the study published in the manuscript entitled, “Focal adhesion is associated with lithium response in bipolar disorder: evidence from a network-based multi-omics analysis", which are *under* the term of [**a CC BY license (Creative Commons Attribution 4.0 International License)**](https://creativecommons.org/licenses/by/4.0/legalcode).
 <br><br>
   
 > **Artwork:** <img src=https://user-images.githubusercontent.com/107134586/174465149-2d248174-2da8-43eb-89b5-1cba7459f722.svg width="12%"/> <p>Copyright © 2022 by Vipavee N. The artwork in this project is licensed under the term of [<b>a CC BY-NC-SA 4.0 license (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License)</b>](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
@@ -196,8 +196,4 @@ Contents in this project are under licenses as follows:
 <p>Purcell S, Neale B, Todd-Brown K, Thomas L, Ferreira MA, Bender D, Maller J, Sklar P, de Bakker PI, Daly MJ et al. 2007. PLINK: A tool set for whole-genome association and population-based linkage analyses. Am J Hum Genet. 81(3):559-575.
 
 <p>Shim JE, Bang C, Yang S, Lee T, Hwang S, Kim CY, Singh-Blom UM, Marcotte EM, Lee I. 2017. GWAB: A web server for the network-based boosting of human genome-wide association data. Nucleic Acids Res. 45(W1):W154-W161.
-    
-    
- 
-
-    
+<br>

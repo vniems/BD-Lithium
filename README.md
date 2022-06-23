@@ -17,7 +17,7 @@
 
 
 ## About Our Project
-**The aim** of the project is to identify the genetic contribution into lithium response in patients with bipolar disorder (BD) using multi-omics analysis of integrated between genome-wide association study (GWAS) and RNA-sequencing (RNA-seq) data.
+**The project** is a collection of source codes being used in the study that aimed to identify the genetic contribution into lithium response in patients with bipolar disorder (BD) using multi-omics analysis of integrated between genome-wide association study (GWAS) and RNA-sequencing (RNA-seq) data.
 
 Here, we make available the analytic tools employed as part of the main study, of which the manuscript, entitled ***"Focal adhesion is associated with lithium response in bipolar disorder: evidence from a network-based multi-omics analysis"***, has been published in *Molecular Psychiatry*. [doi will be added after a paper is published] 
 

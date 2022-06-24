@@ -126,7 +126,7 @@ Source codes of this project can be found in a <code>'DIRECTORIES'</code> folder
 
 All source codes shown here can be found in this GitHub project:<p>
 
-| Features                     |<img src="https://github.com/SommaiGH/master-readme/blob/main/img/R-GitHub.svg" width="50px">|<img src="https://github.com/SommaiGH/master-readme/blob/main/img/Python-GItHub.svg" width="50px">|Additional software required|
+| Features                     |<img src="https://github.com/vniems/BD-Lithium/blob/main/IMAGES/ICONS/LANGUAGES/R_language.svg" width="49px">|<img src="https://github.com/vniems/BD-Lithium/blob/main/IMAGES/ICONS/LANGUAGES/Python_language.svg" width="49px">|Additional software required|
 |------------------------------|:--------:|:--------:|:------------------------:|
 | NetWAS analysis              |          |     √    |                          |
 | RNA-seq analysis             |    √     |          |                          |

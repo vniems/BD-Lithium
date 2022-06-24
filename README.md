@@ -39,7 +39,7 @@ Here, we make available the analytic tools employed as part of the main study, o
 
 ------------------------------------------------------------------------
 
-## <img src="https://github.com/vniems/BD-Lithium/blob/main/IMAGES/ICONS/icon1fix.svg" width="52px"> Project Aim
+## Project Aim
 
 **The purpose** of the project is to distribute the tool (code development) that had been used in the multi-omics analysis of integrated data between BD GWAS and RNA-seq of patients-derived induced pluripotent stem cell (iPSC) neurons.
 
@@ -168,7 +168,7 @@ Contents in this project are under licenses as follows:
 - **Other materials except the source codes:** ![](https://img.shields.io/badge/License-CC--BY--4.0-yellow?style=flat&logo=creativecommons&logoColor=white)<p>Other contents, such as input data, are part of the study published in the manuscript entitled, “Focal adhesion is associated with lithium response in bipolar disorder: evidence from a network-based multi-omics analysis", which are *under* the term of [**a CC BY license (Creative Commons Attribution 4.0 International License)**](https://creativecommons.org/licenses/by/4.0/legalcode).
 <br><br>
   
-> **Artwork:** <img src = "https://github.com/vniems/BD-Lithium/blob/main/IMAGES/ICONS/by-nc-safix.svg" width="100px"> <p>Copyright © 2022 by Vipavee N. The artwork in this project is licensed under the term of [<b>a CC BY-NC-SA 4.0 license (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License)</b>](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+> **Artwork:** <img src = "https://github.com/vniems/BD-Lithium/blob/main/IMAGES/ICONS/LICENSE/cc_by_nc_sa_purple.svg" width="100px"> <p>Copyright © 2022 by Vipavee N. The artwork in this project is licensed under the term of [<b>a CC BY-NC-SA 4.0 license (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License)</b>](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
     
 ------------------------------------------------------------------------
 

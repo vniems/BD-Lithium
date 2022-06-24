@@ -37,7 +37,7 @@ a.  **Adapted Material** means material subject to Copyright and Similar Rights 
 b.  **Adapter's License** means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
 
 
-c.  **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in <a href="#section-2----scope">Section 2(b)(1)-(2)</a> are not Copyright and Similar Rights.
+c.  **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in <a href="https://github.com/vniems/BD-Lithium/edit/main/LICENSES/License_CC_by_4.0.md#section-2---scope">Section 2(b)(1)-(2)</a> are not Copyright and Similar Rights.
 
 
 d.  **Effective Technological Measures** means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
@@ -61,7 +61,7 @@ i.  **Share** means to provide material to the public by any means or process th
 j.  **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
 
 
-k.  **You** means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
+k.  **You** means the individual or entity exercising the Licensed Rights under this Public License. **Your** has a corresponding meaning.
 
 
 <br>
@@ -79,7 +79,7 @@ a.  **License grant**.
 2. <ins>Exceptions and Limitations</ins>. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
 
 
-3. <ins>Term</ins>. The term of this Public License is specified in <a href="#section-6----term-and-termination">Section 6(a)</a>.
+3. <ins>Term</ins>. The term of this Public License is specified in <a href="https://github.com/vniems/BD-Lithium/edit/main/LICENSES/License_CC_by_4.0.md#section-6---term-and-termination">Section 6(a)</a>.
 
 
 4. <ins>Media and formats; technical modifications allowed.</ins>. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
@@ -92,7 +92,7 @@ a.  **License grant**.
     B. No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
 
 
-6.  <ins>No endorsement</ins>. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in <a href="#section-3----license-conditions">Section 3(a)(1)(A)(i)</a>.
+6.  <ins>No endorsement</ins>. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in <a href="https://github.com/vniems/BD-Lithium/edit/main/LICENSES/License_CC_by_4.0.md#section-3---license-conditions">Section 3(a)(1)(A)(i)</a>.
 
 b.  **Other rights**.
 
@@ -115,7 +115,7 @@ a.  **Attribution.**
 1.  If You Share the Licensed Material (including in modified form), You must:
 
     A. retain the following if it is supplied by the Licensor with the Licensed Material:
-        
+            
         i.  identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
 
         ii. a copyright notice;
@@ -146,13 +146,13 @@ a.  **Attribution.**
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
 
 
-a.  for the avoidance of doubt, <a href = "#section-2----scope">Section 2(a)(1)</a> grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;
+a.  for the avoidance of doubt, <a href = "https://github.com/vniems/BD-Lithium/edit/main/LICENSES/License_CC_by_4.0.md#section-2---scope">Section 2(a)(1)</a> grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;
 
 
 b.  if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and
 
 
-c.  You must comply with the conditions in <a href="#section-3----license-conditions">Section 3(a)</a> if You Share all or a substantial portion of the contents of the database.
+c.  You must comply with the conditions in <a href="https://github.com/vniems/BD-Lithium/edit/main/LICENSES/License_CC_by_4.0.md#section-3---license-conditions">Section 3(a)</a> if You Share all or a substantial portion of the contents of the database.
 
 
 For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
@@ -187,7 +187,7 @@ For the avoidance of doubt, this Section 6(b) does not affect any right the Lice
 
 c.  For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
 
-d.  Sections <a href = "#section-1----definitions">1</a>, <a href = "#section-5----disclaimer-of-warranties-and-limitation-of-liability">5</a>, 6, <a href = "#section-7----other-terms-and-conditions">7</a>, and <a href = "#section-8----interpretation">8</a> survive termination of this Public License.
+d.  Sections <a href = "https://github.com/vniems/BD-Lithium/edit/main/LICENSES/License_CC_by_4.0.md#section-1---definitions">1</a>, <a href = "https://github.com/vniems/BD-Lithium/edit/main/LICENSES/License_CC_by_4.0.md#section-5---disclaimer-of-warranties-and-limitation-of-liability">5</a>, 6, <a href = "https://github.com/vniems/BD-Lithium/edit/main/LICENSES/License_CC_by_4.0.md#section-7---other-terms-and-conditions">7</a>, and <a href = "https://github.com/vniems/BD-Lithium/edit/main/LICENSES/License_CC_by_4.0.md#section-8---interpretation">8</a> survive termination of this Public License.
 
 <br>
 

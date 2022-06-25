@@ -116,15 +116,15 @@ a.  **Attribution.**
 
     A. retain the following if it is supplied by the Licensor with the Licensed Material:
          
-        i.  identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;i.  identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
 
-        ii. a copyright notice;
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;ii. a copyright notice;
 
-        iii. a notice that refers to this Public License;
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;iii. a notice that refers to this Public License;
 
-        iv. a notice that refers to the disclaimer of warranties;
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;iv. a notice that refers to the disclaimer of warranties;
 
-        v.  a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;v.  a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
 
     B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
 
@@ -181,7 +181,8 @@ b.  Where Your right to use the Licensed Material has terminated under Section 6
 1.  automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
     
 2.  upon express reinstatement by the Licensor.
-    <p>For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
+
+  &nbsp;&nbsp;&nbsp;&nbsp;For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
 
 c.  For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
 

@@ -48,7 +48,7 @@ The study workflow including detailed methods can be found in 1) the **‘Method
 ------------------------------------------------------------------------
 
 ## The Project Workflow and File Descriptions
-Source codes of this project can be found in a <code>'DIRECTORIES'</code> folder, including **three subdirectories** based on the analytic steps as shown below. 
+Source codes of this project can be found in a [<code>'DIRECTORIES'</code>](https://github.com/vniems/BD-Lithium/tree/main/DIRECTORIES) folder, containing **three subdirectories** based on the analytic steps as shown below. 
 <p>Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
 
 ### Step I
@@ -165,10 +165,10 @@ Contents in this project are under [licenses](https://github.com/vniems/BD-Lithi
 - **Source codes:** ![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen)<p>**The source codes in this project** is *free* to be used and/or modify *under the terms of* **the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version**. Please see the policy and term of use <u>[here](https://github.com/vniems/BD-Lithium/blob/main/LICENSES/License_GLP3.0_later.md)</u>.
 <br>
 
-- **Other materials except the source codes:** ![](https://img.shields.io/badge/License-CC--BY--4.0-yellow?style=flat&logo=creativecommons&logoColor=white)<p>Other contents, such as input data, are part of the study published in the manuscript entitled, “Focal adhesion is associated with lithium response in bipolar disorder: evidence from a network-based multi-omics analysis", which are *under the term of* [**a CC BY license (Creative Commons Attribution 4.0 International License)**]([https://creativecommons.org/licenses/by/4.0/legalcode](https://github.com/vniems/BD-Lithium/blob/main/LICENSES/License_CC_by_4.0.md).
+- **Other materials except the source codes:** ![](https://img.shields.io/badge/License-CC--BY--4.0-yellow?style=flat&logo=creativecommons&logoColor=white)<p>Other contents, such as input data, are part of the study published in the manuscript entitled, “Focal adhesion is associated with lithium response in bipolar disorder: evidence from a network-based multi-omics analysis", which are *under the term of* [**a CC BY license (Creative Commons Attribution 4.0 International License)**](https://github.com/vniems/BD-Lithium/blob/main/LICENSES/License_CC_by_4.0.md).
 <br><br>
   
-> **Artwork:** <img src = "https://github.com/vniems/BD-Lithium/blob/main/IMAGES/ICONS/LICENSE/cc_by_nc_sa_purple.svg" width="100px"> <p>Copyright © 2022 by Vipavee N. The artwork in this project is licensed *under the term of* [<b>a CC BY-NC-SA 4.0 license (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License)</b>](https://github.com/vniems/BD-Lithium/blob/main/LICENSES/License_CC_by_nc_sa_4.0.md).
+> **Artwork:** <img src = "https://github.com/vniems/BD-Lithium/blob/main/IMAGES/ICONS/LICENSE/cc_by_nc_sa_purple.svg" width="100px"> <p>Copyright © 2022 by Vipavee N. The artwork in this project is licensed *under the term of* [<b>a CC BY-NC-SA 4.0 license (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License)</b>](https://github.com/vniems/BD-Lithium/blob/main/LICENSES/License_CC_by_nc_sa_4.0.md).
     
 ------------------------------------------------------------------------
 

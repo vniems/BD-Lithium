@@ -16,30 +16,31 @@
 
 
 
-## About Our Project
+## <img src="https://github.com/vniems/BD-Lithium/blob/main/IMAGES/ICONS/SECTIONS/Project_icon.svg" width="50px"> &nbsp;About Our Project
 **The project** is a collection of source codes being used in the study that aimed to identify the genetic contribution into lithium response in patients with bipolar disorder (BD) using multi-omics analysis of integrated between genome-wide association study (GWAS) and RNA-sequencing (RNA-seq) data.
 
 Here, we make available the analytic tools employed as part of the main study, of which the manuscript, entitled ***"Focal adhesion is associated with lithium response in bipolar disorder: evidence from a network-based multi-omics analysis"***, has been published in *Molecular Psychiatry*. [doi will be added after a paper is published] 
 
 -----------------------------------------------------------------------
 
-## Table of Contents
--   [About our project](#about-our-project)   
--   [Project aim](#project-aim)
--   [The project workflow and file descriptions](#the-project-workflow-and-file-descriptions)
+## <img src="https://github.com/vniems/BD-Lithium/blob/main/IMAGES/ICONS/SECTIONS/TOC_icon.svg" width="50px"> &nbsp;Table of Contents
+-   [About our project](https://github.com/vniems/BD-Lithium/edit/main/README.md#-about-our-project)
+-   [Table of contents](https://github.com/vniems/BD-Lithium/edit/main/README.md#-table-of-contents)
+-   [Project aim](https://github.com/vniems/BD-Lithium/edit/main/README.md#-project-aim)
+-   [The project workflow and file descriptions](https://github.com/vniems/BD-Lithium/edit/main/README.md#-the-project-workflow-and-file-descriptions)
     - [Step I - Genome-wide association study of patients with BD](#step-i)
     - [Step II - Transcriptomic analysis of iPSC-derived neurons](#step-ii)
     - [Step III - Network and functional enrichment analyses](#step-iii)
 
--  [Feature guidance](#feature-guidance)
--  [Contributing](#contributing)
--  [License](#license)
--  [Citation](#citation)
--  [References](#references)
+-  [Feature guidance](https://github.com/vniems/BD-Lithium/edit/main/README.md#-feature-guidance)
+-  [Contributing](https://github.com/vniems/BD-Lithium/edit/main/README.md#-contributing)
+-  [License](https://github.com/vniems/BD-Lithium/edit/main/README.md#-license)
+-  [Citation](https://github.com/vniems/BD-Lithium/edit/main/README.md#-citation)
+-  [References](https://github.com/vniems/BD-Lithium/edit/main/README.md#-references)
 
 ------------------------------------------------------------------------
 
-## Project Aim
+## <img src="https://github.com/vniems/BD-Lithium/blob/main/IMAGES/ICONS/SECTIONS/Aim_icon.svg" width="50px"> Project Aim
 
 **The purpose** of the project is to distribute the tool (code development) that had been used in the multi-omics analysis of integrated data between BD GWAS and RNA-seq of patients-derived induced pluripotent stem cell (iPSC) neurons.
 
@@ -47,7 +48,7 @@ The study workflow including detailed methods can be found in 1) the **‘Method
 
 ------------------------------------------------------------------------
 
-## The Project Workflow and File Descriptions
+## <img src="https://github.com/vniems/BD-Lithium/blob/main/IMAGES/ICONS/SECTIONS/Workflow_icon.svg" width="50px"> The Project Workflow and File Descriptions
 Source codes of this project can be found in a [<code>'DIRECTORIES'</code>](https://github.com/vniems/BD-Lithium/tree/main/DIRECTORIES) folder, containing **three subdirectories** based on the analytic steps as shown below. 
 <p>Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
 
@@ -122,7 +123,7 @@ Source codes of this project can be found in a [<code>'DIRECTORIES'</code>](http
 
 ------------------------------------------------------------------------
 
-## Feature Guidance
+## <img src="https://github.com/vniems/BD-Lithium/blob/main/IMAGES/ICONS/SECTIONS/Files_icon.svg" width="50px"> &nbsp;&nbsp;Feature Guidance
 
 All source codes shown here can be found in this GitHub project:<p>
 
@@ -137,7 +138,7 @@ All source codes shown here can be found in this GitHub project:<p>
 
 ------------------------------------------------------------------------
 
-## Contributing
+## <img src="https://github.com/vniems/BD-Lithium/blob/main/IMAGES/ICONS/SECTIONS/Contributing_icon.svg" width="50px"> &nbsp;Contributing
 
 Contributions for this project are:
 
@@ -156,7 +157,7 @@ Contributions for this project are:
 
 ------------------------------------------------------------------------
 
-## License
+## <img src="https://github.com/vniems/BD-Lithium/blob/main/IMAGES/ICONS/SECTIONS/Licenses_icon.svg" width="50px"> &nbsp;License
 
 **Copyright © 2022**<br>
     
@@ -172,18 +173,18 @@ Contents in this project are under [licenses](https://github.com/vniems/BD-Lithi
     
 ------------------------------------------------------------------------
 
-## Citation
+## <img src="https://github.com/vniems/BD-Lithium/blob/main/IMAGES/ICONS/SECTIONS/Citation_icon.svg" width="50px"> Citation
 
  If you use the code from this project, please cite with the data from the `CITATION.cff` file (see [<u>here</u>](https://github.com/vniems/BD-Lithium/blob/main/CITATION/CITATION_v110_2022_06_19.cff)) or from **the Council of Science Editors (CSE)** citation styles as shown below.
     <br>
-
-    CSE Bibliography Format:   
-    
+    <p>
+   ><b>CSE Bibliography Format:</b>
+        <p>
     Niemsiri V, Rosenthal SB, Fisch KM, and Kelsoe JR. 2022. Bipolar Disorder and Lithium Response: Pharmacogenomic Study. San Francisco (CA): GitHub; [accessed 2022 Jun 19]. https://github.com/vniems/BD-Lithium.
 
 ------------------------------------------------------------------------
 
-## References
+## <img src="https://github.com/vniems/BD-Lithium/blob/main/IMAGES/ICONS/SECTIONS/Reference_icon.svg" width="50px"> &nbsp;References
 
 <p>Edgar R, Domrachev M, Lash AE. 2002. Gene Expression Omnibus: NCBI gene expression and hybridization array data repository. Nucleic Acids Res. 30(1):207-210.
 

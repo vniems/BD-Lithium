@@ -82,7 +82,7 @@ a.  **License grant**.
 3. <ins>Term</ins>. The term of this Public License is specified in <a href="https://github.com/vniems/BD-Lithium/edit/main/LICENSES/License_CC_by_4.0.md#section-6---term-and-termination">Section 6(a)</a>.
 
 
-4. <ins>Media and formats; technical modifications allowed.</ins>. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
+4. <ins>Media and formats; technical modifications allowed</ins>. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
 
 
 5. <ins>Downstream recipients</ins>.

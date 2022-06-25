@@ -89,9 +89,9 @@ a.  **License grant**.
 
 5.  <u>Downstream recipients</u>.
     
-    A. <ins>Offer from the Licensor — Licensed Material</ins>. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
+    A. <ins>Offer from the Licensor - Licensed Material</ins>. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
         
-    B. <ins>Additional offer from the Licensor — Adapted Material</ins>. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.
+    B. <ins>Additional offer from the Licensor - Adapted Material</ins>. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.
 
     C. <ins>No downstream restrictions</ins>. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
 
